@@ -1,0 +1,14 @@
+{
+  "name": "react-intro-and-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndrewDiles/react-intro-and-components.git",
+  "author": "Andrew Diles <a_diles@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react-dom": "^18.2.0"
+  }
+}
