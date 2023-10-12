@@ -288,10 +288,23 @@ export default HelloWorld
 
 Convert:
 
-```jsx
-// in file named ????
+solution:
+```js
+// in file named MyComponent.js
+
+const MyComponent = () => {
+
+	return (
+		<div>
+			<p>I will be produced by a component</p>
+			<a href="https://www.concordiabootcamps.ca/web-development">Web Dev Bootcamp</a>
+		</div>
+	)
+}
 
 ```
+
+
 
 ---
 
