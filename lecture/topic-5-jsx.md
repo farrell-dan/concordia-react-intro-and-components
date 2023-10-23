@@ -285,4 +285,4 @@ const Example = () => {
 
 - How do we handle css?
 
-[topic-6-css-in-react]([./topic-6-css-in-react](https://github.com/cb-wd-30/react-intro-and-components/blob/master/lecture/topic-6-css-in-react.md)https://github.com/cb-wd-30/react-intro-and-components/blob/master/lecture/topic-6-css-in-react.md)
+[topic-6-css-in-react](https://github.com/cb-wd-30/react-intro-and-components/blob/master/lecture/topic-6-css-in-react.md)
