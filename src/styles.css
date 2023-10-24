@@ -7,6 +7,7 @@
 	}
     header {
         border-bottom: 5px solid #540B0E ;
+        text-align: center;
     }
 
     footer {
@@ -31,6 +32,7 @@
 
     .footer{
         transform: scale(-1, 1);
+        text-align: center;
     }
 
     h3, p{
