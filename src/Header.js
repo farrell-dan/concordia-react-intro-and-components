@@ -5,9 +5,6 @@ const RandomColour = Colours[RandomIndex]
 
 const colorStyle = { "color" : RandomColour}
 
-console.log(colorStyle);
-
-
 const Header = () => {
   return (
     <header>
