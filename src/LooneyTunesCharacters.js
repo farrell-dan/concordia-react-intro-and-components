@@ -1,3 +1,5 @@
+import Images from "./Images";
+
 const LooneyTunesCharacters = () => {
   return (
     <section>
@@ -7,6 +9,7 @@ const LooneyTunesCharacters = () => {
         <li>Daffy Duck</li>
         <li>Elmer Fudd</li>
       </ul>
+      <Images/>
     </section>
   );
 };
