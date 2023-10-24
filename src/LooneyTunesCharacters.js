@@ -1,7 +1,7 @@
 const LooneyTunesCharacters = () => {
   return (
     <section>
-      <ul>
+      <ul className="LTCharacters">
         <h3>Looney Tunes Characters</h3>
         <li>Bugs Bunny</li>
         <li>Daffy Duck</li>

@@ -1,6 +1,6 @@
 const BugsQuote = () => {
     return (
-      <section>
+      <section className="BugsQuote">
         <q>Eh, what's up, Doc?</q>
         <p>- Bugs Bunny</p>
       </section>

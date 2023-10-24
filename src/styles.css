@@ -1,0 +1,38 @@
+	/* https: //coolors.co/palette/335c67-fff3b0-e09f3e-9e2a2b-540b0e */
+    
+    body {
+	    background-color: #E09F3E;
+        color: #335C67;
+        margin: 0;
+	}
+    header {
+        border-bottom: 5px solid #540B0E ;
+    }
+
+    footer {
+        border-top: 5px solid #540B0E;
+    }
+
+    .LTCharacters{
+        background-color: #FFF3B0;
+        margin: 0;
+    }
+    .SpaceJam{
+        background-image: linear-gradient(to bottom right, #FFF3B0, #9E2A2B);
+        margin: 0;
+    }
+
+    .BugsQuote {
+        background-color: #9E2A2B;
+        text-shadow: #FFF3B0 1px 1px 1px, #E09F3E 0 0 5px;
+        text-align: center;
+        margin: 0;
+    }
+
+    .footer{
+        transform: scale(-1, 1);
+    }
+
+    h3, p{
+        margin: 0;
+    }
